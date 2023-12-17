@@ -1,5 +1,3 @@
 requests
 pyfiglet
 tqdm
-time
-sys
