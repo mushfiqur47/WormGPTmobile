@@ -42,7 +42,7 @@ python3 WormGPT.py
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Demon-orange?style=for-the-badge&logo=telegram)](https://t.me/BLACK_DEMON_VX)
 
-- [![Connect](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/blackd4)
+- [![Connect](https://img.shields.io/badge/Telegram-Demon-indigo?style=for-the-badge&logo=telegram)](https://t.me/blackd4)
 
 #### Tools Languages :
 
