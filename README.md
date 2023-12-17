@@ -32,10 +32,21 @@ python3 WormGPT.py
 
 
 
-### Develober
-Telegram [Black Demon](https://t.me/BLACK_DEMON_VX)
-Team [SCoderd](https://t.me/S4_Co)
-Instagram [@elqnas_daymon](https://www.instagram.com/elqnas_daymon?igshid=MzNlNGNkZWQ4Mg==)
+## [~] Contact Me on :
 
-### Credit s
+- [![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/black-demon-dr7)
+
+- [![Instgram](https://img.shields.io/badge/Instagram-Demon-green?style=for-the-badge&logo=instagram)](https://instagram.com/elqnas_daymon?igshid=MzNlNGNkZWQ4Mg==)
+
+- [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW)
+
+- [![Telegram](https://img.shields.io/badge/Telegram-Demon-orange?style=for-the-badge&logo=telegram)](https://t.me/BLACK_DEMON_VX)
+
+- [![Connect](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/blackd4)
+
+#### Tools Languages :
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=black-demon-dr7&repo=WormGPT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+### ©️ Copyright
 Copyright © 2023 by [Black Demon](https://github.com/black-demon-dr7)
