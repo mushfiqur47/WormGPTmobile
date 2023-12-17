@@ -1,5 +1,5 @@
 # WormGPT
-The WormGPT tool is a tool for doing anything unethical, giving you any hacking code you want or anything. 
+The WormGPT tool is a tool that helps you create unethical tools in any programming language and helps you do anything unethical. You are not responsible for any incorrect use of the tool. 
 
 ### Installation
 
